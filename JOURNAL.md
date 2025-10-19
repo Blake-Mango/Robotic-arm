@@ -10,3 +10,8 @@ This is my journal of the design and building process of **Robot Arm **.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/659).
 
 
+## 10/19/2025 - started to find out how to use media pipe and google things  
+
+I've figured out that I can use gesture recognition to be able to make the robot arm move and to have it work and also that there can be some object recognition so it can be able to grab whatever i say and tell the arm to grab. that is the rabbit hole I've been going on for the last 2-3 hours to see how viable this robot arm is. like all of the different things I can do with media pipe and all of the google resorces also like the google voice recognition. this will be a very fun challenge![media pipe.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--41eebad9ea2ac76ab812a1b1f03765cf8bfa1ee8/media%20pipe.png)
+ to take on.  
+
