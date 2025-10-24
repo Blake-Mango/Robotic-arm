@@ -6,17 +6,18 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Robot Arm **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/659).
-
-
-## 10/19/2025 12 AM - started to find out how to use media pipe and google things  
+## 10/19/2025 1 AM - started to find out how to use media pipe and google things  
 
 I've figured out that I can use gesture recognition to be able to make the robot arm move and to have it work and also that there can be some object recognition so it can be able to grab whatever i say and tell the arm to grab. that is the rabbit hole I've been going on for the last 2-3 hours to see how viable this robot arm is. like all of the different things I can do with media pipe and all of the google resorces also like the google voice recognition. this will be a very fun challenge![media pipe.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--41eebad9ea2ac76ab812a1b1f03765cf8bfa1ee8/media%20pipe.png)
  to take on.  
 
-## 10/19/2025 10 PM - just spent the last 5 hours soldering  
+## 10/19/2025 11 PM - just spent the last 5 hours soldering  
 
 Today I spent several hours working on assembling the circuit boards for my project. Most of the time was spent soldering components onto the boards. It was a slow, careful process, making sure each joint was solid and clean, and that all the parts were correctly oriented before committing with the iron. By the end of the session, I had most of the boards populated and starting to take shape. It took about five hours in total, but it was worth it. Everything’s looking good so far — the boards are neat, the joints are solid, and nothing smoked when powered up. i just had to get this done so i could test some of the connections and see if a few boards would work together. ![images.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--324705c3bd3e263018d6c94566210a7e081902cd/images.png)
 next I'm going to check if I can run media pipe on a raspberry pi and see how horribly it would run on the old pi I've used for testing.  
+
+## 10/23/2025 - Made the BOM  
+
+started to work on thinking about what I would need to make this ai robot arm into a reality. ive found some pretty strong servos that can most likely lift anything that i would ever want it to. found a good enough camera that can take a good enough video for the object recognition. I'll ship it soon because its easier for me to test code and everything when I have physical electronics. ![Screenshot 2025-10-23 175144.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--114024cb80e799f9dedd549379ddcf4623538887/Screenshot%202025-10-23%20175144.png) Took a while to make the bom because i was seeing if all the parts would work with the AI model.
+  
 
