@@ -16,8 +16,21 @@ I've figured out that I can use gesture recognition to be able to make the robot
 Today I spent several hours working on assembling the circuit boards for my project. Most of the time was spent soldering components onto the boards. It was a slow, careful process, making sure each joint was solid and clean, and that all the parts were correctly oriented before committing with the iron. By the end of the session, I had most of the boards populated and starting to take shape. It took about five hours in total, but it was worth it. Everything’s looking good so far — the boards are neat, the joints are solid, and nothing smoked when powered up. i just had to get this done so i could test some of the connections and see if a few boards would work together. ![images.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4MywicHVyIjoiYmxvYl9pZCJ9fQ==--324705c3bd3e263018d6c94566210a7e081902cd/images.png)
 next I'm going to check if I can run media pipe on a raspberry pi and see how horribly it would run on the old pi I've used for testing.  
 
-## 10/23/2025 - Made the BOM  
+## 10/23/2025 7 PM - Made the BOM  
 
 started to work on thinking about what I would need to make this ai robot arm into a reality. ive found some pretty strong servos that can most likely lift anything that i would ever want it to. found a good enough camera that can take a good enough video for the object recognition. I'll ship it soon because its easier for me to test code and everything when I have physical electronics. ![Screenshot 2025-10-23 175144.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--114024cb80e799f9dedd549379ddcf4623538887/Screenshot%202025-10-23%20175144.png) Took a while to make the bom because i was seeing if all the parts would work with the AI model.
+  
+
+## 10/23/2025 8 PM - Shipped It hope it gets approved  
+
+made a cart in aliexpress and took screenshots and took screenshots for the board coming from adafruit. heres all of the cart screenshots i took. they line up pretty closely with the bom but not exactly![Screenshot 2025-10-23 175144.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c0140dd130332d432de7f6585dc22676242207f/Screenshot%202025-10-23%20175144.png)
+![Screenshot 2025-10-23 203652.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--58e54a3fe223807616294604ae680846250a53cd/Screenshot%202025-10-23%20203652.png)
+![Screenshot 2025-10-23 203849.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--59da03e2fb50e6492693c1a626910ea150ac0171/Screenshot%202025-10-23%20203849.png)
+![Screenshot 2025-10-23 204007.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6e6b89d29800c8f393d3acbdca164f9c2463987/Screenshot%202025-10-23%20204007.png)
+![Screenshot 2025-10-23 204001.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2MywicHVyIjoiYmxvYl9pZCJ9fQ==--321e7f106c68f230cdfcc34e47859e84976fc3c7/Screenshot%202025-10-23%20204001.png)
+![Screenshot 2025-10-23 203948.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--51481057926c8030f37c2fbc4dac5c59ce80498e/Screenshot%202025-10-23%20203948.png)
+![Screenshot 2025-10-23 203937.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b465ad96d009b9a26e4ea4b255a04c39f9ef0037/Screenshot%202025-10-23%20203937.png)
+![Screenshot 2025-10-23 203918.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--edc6e3fe8192465c30340949592052860cce9936/Screenshot%202025-10-23%20203918.png)
+![Screenshot 2025-10-23 203903.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0ed1377973486bb683c9d852aac51bb671230a21/Screenshot%202025-10-23%20203903.png)
   
 
