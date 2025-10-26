@@ -1,21 +1,24 @@
-# Intelligent Robotic Arm MK2  
-
+# AI Robotic Arm
 ## Overview  
-This project is a 3D-printed robotic arm equipped with **AI-powered vision** and a **distance sensor** for responsive, semi-autonomous operation. It combines servo-based motion control with modern computer vision to detect objects, estimate distance, and interact intelligently with its surroundings. The design emphasizes accessibility, modularity, and hands-on experimentation with AI-driven robotics.  
+This project is using a few AI models from media pipe **object recognition** and **Gesture recognition** to be able to pick up what i point at and know what its holding and how far away things are from them. the main parts are 3d printed so small changes should be very easy to do.
 
 ## Key Features  
-- **AI Vision System:** Runs on a Raspberry Pi with a camera for real-time object and gesture recognition.  
-- **Distance Sensing:** Ultrasonic or laser sensor for obstacle detection and spatial awareness.  
-- **Modular 3D-Printed Design:** Lightweight, customizable, and easy to assemble or upgrade.  
-- **Microcontroller Control:** Uses Arduino or Teensy boards with optional PCA9685 servo drivers.  
-- **Upgradeable Platform:** Expandable for voice interaction, sensor feedback, or ML-based behavior.  
-
+- **The AI:** Runs logic on a Raspberry Pi with a camera for real-time object and gesture recognition.  
+- **Distance Sensing:** Ultrasonic distance detector for obstacle detection. 
+- **3D-Printed Design:** Few parts, customizable, and easy to assemble and upgrade design.  
+- **Servo Control** Uses a Teensy to control the servos.
+  
 ## Assembly Notes  
-1. Calibrate all servos to their neutral position before mounting.  
-2. Print parts in Pla or Petg with 20–30% infill for strength and precision.  
-3. Mount the camera securely in the mount with a clear field of view.  
-4. Use 18-20 AWG wire for servo power and provide regulated logic power separately.
-5. Test and align the distance sensor for optimal range and orientation before integration.  
+1. Print parts in Pla or Petg minimum 15% infill.
+2. dont over extend the arm.
+3. Heres what it should look like assembled without the holder for the ultra sonic sensor and camera.
+<img width="1283" height="941" alt="Screenshot 2025-10-25 at 10 44 01 PM" src="https://github.com/user-attachments/assets/49f85141-04ec-44ab-b16c-11922ad03c8a" />
+
+## Here are some images to help with assembly
+
+<img width="1281" height="934" alt="Screenshot 2025-10-25 at 11 14 54 PM" src="https://github.com/user-attachments/assets/18c0d545-07fa-46a6-b402-b1edb574cbd3" />
+<img width="1278" height="935" alt="Screenshot 2025-10-25 at 11 14 36 PM" src="https://github.com/user-attachments/assets/60254ca1-8f1c-4215-ac15-e19c597a4d98" />
+<img width="1280" height="926" alt="Screenshot 2025-10-25 at 11 11 24 PM" src="https://github.com/user-attachments/assets/e6aa9802-3558-430e-acb3-02a155ffe1d9" />
 
 ## License 
 EEZYbotARM MK2 by daGHIZmo is the starting point for this arm its under creative commons atribution non-comercial 
