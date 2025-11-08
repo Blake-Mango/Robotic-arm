@@ -34,3 +34,9 @@ made a cart in aliexpress and took screenshots and took screenshots for the boar
 ![Screenshot 2025-10-23 204007.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f73f092169e3b1509046124a54326f124bea9f2e/Screenshot%202025-10-23%20204007.png)
   
 
+## 11/7/2025 - design the base of the arm and rotation mechanism  
+
+i made the base very minimal and the base is made to use a servo and timing belt to rotate most of the way around i think that it will only be able to go 360 once and not infinitely. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a45ff260cc821893512baf7332ea3ff83a530a18/image.png)
+  
+
